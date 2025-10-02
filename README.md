@@ -27,44 +27,44 @@ A web application demonstrating two types of polyalphabetic ciphers:
 
 Frontend Setup
 
-Navigate to the frontend directory:
+- Navigate to the frontend directory:
 
-cd frontend
+- cd frontend
 
-
-Open index.html in a web browser.
+- Open index.html in a web browser.
 
 The frontend will automatically connect to the backend.
 
 🎯 Usage
 
-Select a cipher method (Traditional Vigenère or Dynamic Cipher).
+- Select a cipher method (Traditional Vigenère or Dynamic Cipher).
 
-Enter text to encrypt or decrypt.
+- Enter text to encrypt or decrypt.
 
-Enter a key (letters only).
+- Enter a key (letters only).
 
-Click Encrypt or Decrypt to process the text.
+- Click Encrypt or Decrypt to process the text.
 
 ✨ Features
 
-Clean, responsive user interface
+- Clean, responsive user interface
 
-Two different cipher implementations
+- Two different cipher implementations
 
-Real-time encryption and decryption
+- Real-time encryption and decryption
 
-Error handling for invalid inputs
+- Error handling for invalid inputs
 
 📂 Project Structure
+
 Polyalphabetic-Cipher-Web-Application/
-│── backend/        # Flask backend for cipher processing
-│── frontend/       # Frontend with UI (HTML, CSS, JS)
+│── backend/ # Flask backend for cipher processing
+│── frontend/ # Frontend with UI (HTML, CSS, JS)
 │── requirements.txt
 │── README.md
 
 🛠️ Tech Stack
 
-Frontend: HTML, CSS, JavaScript
+- Frontend: HTML, CSS, JavaScript
 
-Backend: Python (Flask)
+- Backend: Python (Flask)
