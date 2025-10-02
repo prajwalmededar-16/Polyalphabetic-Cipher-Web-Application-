@@ -6,6 +6,9 @@ A web application demonstrating two types of polyalphabetic ciphers:
 - **Dynamic Cipher (custom implementation)**
 
 ---
+## Team Members
+- Prajwal Channappa Mededar(1OX22CS124)
+- Meghana B(1OX22CS093)
 
 ## 🚀 Setup Instructions
 
